@@ -1,0 +1,11 @@
+User,Action
+101,in
+102,out
+103,in
+User,Activity Count
+101,1
+102,1
+103,1
+User,Activity Count
+in,2
+out,1
